@@ -1,0 +1,5 @@
+https://github.com/rutube/RutubePlayerJSAPI
+
+https://github.com/rutube/ShowcaseTutorial
+
+https://rutube.ru/api/metainfo/tv/28/video?origin__type=rtb,rst
